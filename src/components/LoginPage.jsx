@@ -86,7 +86,7 @@ function App() {
 
         {/* Right Half - Sign Up Prompt */}
         <div className="col-md-6 d-flex flex-column align-items-center justify-content-center bg-primary text-white text-center">
-          <h3 className="fw-bold mb-3">Signin here...</h3>
+          <h3 className="fw-bold mb-3">Signup here...</h3>
           <p className="mb-4">Sign up and discover a great amount of new opportunities!</p>
            <button className="btn btn-light" onClick={() => navigate('/signup')}>
              Sign Up
